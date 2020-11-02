@@ -7,9 +7,9 @@ environments.development = {
   hashSecret: 'secretHashSecret',
   maxUserChecks: 5,
   twilio: {
-    accountSid: 'ACcd2830aabd729eec065b1f77e29617cc',
-    authToken: 'c988aa0de34dc6d6c914b9eadcd83b95',
-    from: '+12029523124'
+    accountSid: '',
+    authToken: '',
+    from: ''
   }
 };
 environments.staging = {
